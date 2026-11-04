@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "Décoration de mariage marocain à Nantes | Roi des Rois Déco",
+    "description": "Décoration de mariages marocains, fiançailles et soirées henné à Nantes et en Loire-Atlantique : salons en velours brodé d'or, allée et tapis rouge, arches dorées, location de matériel. Devis sur WhatsApp.",
+    "legalTitle": "Mentions légales | Roi des Rois Déco",
+    "legalDescription": "Mentions légales et protection des données du site Roi des Rois Déco, décoration événementielle à Nantes."
+  },
+  "nav": {
+    "decoration": "Décoration",
+    "allee": "Allée & cérémonie",
+    "location": "Location",
+    "realisations": "Réalisations",
+    "contact": "Contact",
+    "quote": "Demander un devis",
+    "quoteShort": "Devis",
+    "instagram": "Instagram de Roi des Rois",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "langs": "Langue du site",
+    "skip": "Aller au contenu",
+    "home": "Roi des Rois, accueil"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "brand": {
+    "name": "Roi des Rois",
+    "sub": "Décoration événementielle & mariages",
+    "ar": "تزيين الحفلات والأعراس"
+  },
+  "hero": {
+    "eyebrow": "Décoration marocaine · Mariages · Nantes",
+    "title": "L'élégance moderne, l'âme de la tradition",
+    "lead": "Salons en velours brodé d'or, lanternes, tapis et arches dorées pour vos mariages, fiançailles et soirées henné.",
+    "quote": "Demander un devis",
+    "whatsapp": "WhatsApp",
+    "scroll": "Découvrir",
+    "alts": [
+      "Salle de réception à Nantes, scène des mariés et tapis rouge",
+      "Salon marocain en velours bordeaux brodé d'or sous un lustre en cristal",
+      "Allée de cérémonie en extérieur, tapis rouge, arches dorées et lanternes"
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "La maison",
+    "title": "Une tradition qui se reçoit comme un palais",
+    "body": "Roi des Rois habille vos fêtes à la manière des grandes maisons marocaines : velours profonds, broderies au fil d'or, cuivres ciselés et lumière douce des lanternes. Nous composons chaque décor pour votre salle et vos couleurs, du salon d'honneur jusqu'au dernier verre posé sur la table, à Nantes et dans toute la Loire-Atlantique.",
+    "signature": "Sublimez vos événements : entre élégance moderne et tradition maghrébine."
+  },
+  "services": {
+    "eyebrow": "Nos prestations",
+    "title": "Trois façons de vous accompagner",
+    "more": "En parler",
+    "items": [
+      {
+        "title": "Décoration complète",
+        "sub": "Mariages · fiançailles · soirées henné",
+        "body": "Nous pensons l'ensemble de la salle : salons marocains, tables dressées, centres floraux, coin henné et scène des mariés. Nous livrons, installons et démontons.",
+        "points": [
+          "Visite ou plan de la salle",
+          "Choix des couleurs et du thème",
+          "Installation et démontage"
+        ]
+      },
+      {
+        "title": "Allée & cérémonie",
+        "sub": "Tapis rouge · arches dorées · lanternes",
+        "body": "Une entrée qui marque les esprits : tapis rouge à médaillons, arches et colonnes dorées, vasques fleuries et lanternes de part et d'autre, en salle comme en extérieur.",
+        "points": [
+          "Entrée des mariés",
+          "Cérémonie en extérieur",
+          "Compositions florales"
+        ]
+      },
+      {
+        "title": "Location de matériel",
+        "sub": "Pour décorer vous-même",
+        "body": "Salons, coussins, tables basses, plateaux à henné, lanternes, tapis, arches : composez votre sélection dans le catalogue, nous préparons le matériel pour votre date.",
+        "points": [
+          "Catalogue en ligne",
+          "Retrait ou livraison",
+          "Conseils de mise en place"
+        ]
+      }
+    ]
+  },
+  "details": {
+    "eyebrow": "Le savoir-faire",
+    "title": "La beauté est dans les détails",
+    "body": "Un galon bien tendu, une broderie dans l'axe, un verre au liseré d'or aligné sur son couvert. Ce sont ces gestes, répétés table après table, qui donnent à une salle l'air d'un palais.",
+    "alt": "Gros plan d'un salon en velours bordeaux brodé de fil d'or"
+  },
+  "events": {
+    "eyebrow": "Vos événements",
+    "title": "Chaque fête a son décor",
+    "items": [
+      {
+        "id": "mariage",
+        "title": "Mariage",
+        "body": "Scène des mariés, allée, salons et tables : un décor pensé du premier pas des invités jusqu'à la dernière danse.",
+        "alt": "Scène des mariés éclairée, canapé blanc et lanternes dorées"
+      },
+      {
+        "id": "fiancailles",
+        "title": "Fiançailles",
+        "body": "Un salon brodé, des lanternes et des plateaux dorés pour recevoir les deux familles avec élégance.",
+        "alt": "Salon marocain bleu canard et table ronde émeraude garnie de lanternes"
+      },
+      {
+        "id": "henne",
+        "title": "Soirée henné",
+        "body": "Couleurs vives, tentures ouvragées, plateau et coussin à henné : la tradition dans toute sa chaleur.",
+        "alt": "Décor de soirée henné, arcades vertes et rouges, plateaux dorés"
+      },
+      {
+        "id": "reception",
+        "title": "Réception privée",
+        "body": "Anniversaires, naissances, repas de famille : des tables dressées avec soin, à la mesure de votre salle.",
+        "alt": "Table ronde dressée en rose et blanc, bougies et bouquet blanc"
+      }
+    ]
+  },
+  "rental": {
+    "eyebrow": "Location de matériel",
+    "title": "Le catalogue",
+    "intro": "Choisissez vos pièces, ajoutez-les à votre demande : nous vous confirmons la disponibilité et le tarif pour votre date.",
+    "all": "Tout",
+    "add": "Ajouter à ma demande",
+    "added": "Dans ma demande",
+    "remove": "Retirer",
+    "priceOnRequest": "Prix sur demande",
+    "from": "{price} € {unit}",
+    "count": "{n} article(s) dans votre demande",
+    "goToForm": "Finaliser ma demande",
+    "note": "Tarifs indicatifs hors livraison et installation. Caution demandée pour la location."
+  },
+  "gallery": {
+    "eyebrow": "Réalisations",
+    "title": "Nos décors, à Nantes et alentours",
+    "intro": "Quelques salles que nous avons habillées. Retrouvez chaque nouvelle réalisation sur Instagram.",
+    "follow": "Suivre @roidesrois.deco44",
+    "open": "Agrandir la photo",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "alts": {
+      "table-turquoise": "Table dressée en turquoise, couverts dorés et centre fleuri",
+      "table-rose-turquoise": "Table ronde à nappe rose et turquoise, bouquet blanc sur pied doré",
+      "table-rose-bougies": "Table rose et blanche, bougies et roses blanches",
+      "table-blanche": "Table blanche, serviettes pliées et bouquet blanc",
+      "table-roses-rouges": "Salle de réception, tables aux roses rouges et lampes à franges",
+      "salle-reception": "Vue d'ensemble d'une salle décorée, scène et tables rondes",
+      "centre-roses-rouges": "Centre de table aux roses rouges sur pied doré, verres ciselés",
+      "centre-blanc-bougies": "Bouquet blanc sur pied doré entouré de bougies",
+      "scene-salon-blanc": "Scène des mariés, canapé blanc capitonné et arcades lumineuses",
+      "bordeaux-banquette": "Salon marocain bordeaux, tenture et coussins brodés d'or",
+      "emeraude-table-lanternes": "Table basse émeraude et lanternes dorées",
+      "allee-colonne-doree": "Allée extérieure, colonne et vasque dorées fleuries",
+      "arche-florale": "Arche lumineuse dorée et bouquet de roses rouges",
+      "theiere-doree": "Théière dorée ciselée posée sur un plateau",
+      "henne-salon-couleurs": "Salon de henné aux tentures rouges, vertes et dorées",
+      "tapis-rouge-scene": "Tapis rouge menant à la scène des mariés",
+      "velours-canard-brode": "Velours bleu canard brodé de motifs crème",
+      "verres-couverts-or": "Verre ciselé à liseré doré, assiettes et couverts or"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Ils nous ont fait confiance",
+    "title": "Avis clients",
+    "empty": "Les avis de nos clients arrivent bientôt. En attendant, nos réalisations parlent sur Instagram.",
+    "cta": "Voir Instagram"
+  },
+  "zone": {
+    "eyebrow": "Zone d'intervention",
+    "title": "Nantes et alentours",
+    "body": "Nous intervenons à Nantes et dans les communes voisines, et nous nous déplaçons volontiers plus loin en Loire-Atlantique sur demande.",
+    "cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Saint-Sébastien-sur-Loire",
+      "Carquefou",
+      "Vertou",
+      "Saint-Nazaire"
+    ],
+    "note": "Autre ville ? Écrivez-nous, nous regardons ensemble."
+  },
+  "form": {
+    "eyebrow": "Devis",
+    "title": "Demander un devis",
+    "intro": "Quelques informations sur votre événement suffisent. Votre demande part sur WhatsApp, et nous vous répondons rapidement avec une proposition.",
+    "eventType": "Type d'événement",
+    "eventTypes": {
+      "mariage": "Mariage",
+      "fiancailles": "Fiançailles",
+      "henne": "Soirée henné",
+      "reception": "Réception privée",
+      "autre": "Autre"
+    },
+    "date": "Date",
+    "dateTaken": "Cette date est déjà très demandée : nous vous confirmons la disponibilité au plus vite.",
+    "venue": "Lieu ou salle",
+    "venuePh": "Nom de la salle, ville",
+    "guests": "Nombre d'invités",
+    "service": "Prestation souhaitée",
+    "services": {
+      "complete": "Décoration complète",
+      "allee": "Allée & cérémonie",
+      "location": "Location seule"
+    },
+    "items": "Articles de location choisis",
+    "itemsEmpty": "Aucun article pour l'instant.",
+    "itemsBrowse": "Parcourir le catalogue",
+    "qty": "Quantité",
+    "theme": "Couleurs ou thème souhaités",
+    "themePh": "Ex. bordeaux et or, émeraude, blanc et doré...",
+    "budget": "Budget indicatif",
+    "optional": "facultatif",
+    "name": "Nom et prénom",
+    "phone": "Téléphone",
+    "message": "Message",
+    "messagePh": "Vos idées, vos contraintes, une photo d'inspiration à nous envoyer...",
+    "required": "Champ obligatoire",
+    "submit": "Envoyer ma demande sur WhatsApp",
+    "privacy": "Vos informations servent uniquement à préparer votre devis.",
+    "sent": "Merci ! WhatsApp s'est ouvert avec votre demande : il ne reste qu'à l'envoyer. Si rien ne s'est ouvert, utilisez ce lien :",
+    "sentLink": "ouvrir WhatsApp",
+    "wa": {
+      "title": "*Demande de devis – Roi des Rois Déco*",
+      "event": "Événement",
+      "date": "Date",
+      "venue": "Lieu",
+      "guests": "Invités",
+      "service": "Prestation",
+      "items": "Articles de location",
+      "theme": "Couleurs / thème",
+      "budget": "Budget",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "message": "Message",
+      "lang": "Langue : français"
+    }
+  },
+  "footer": {
+    "tagline": "Décoration marocaine de mariages et d'événements, location de matériel.",
+    "zone": "Nantes · Loire-Atlantique",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés.",
+    "contact": "Contact",
+    "follow": "Suivre"
+  },
+  "whatsapp": {
+    "float": "Écrire sur WhatsApp",
+    "hello": "Bonjour Roi des Rois, je souhaite des informations pour la décoration de mon événement."
+  },
+  "email": {
+    "subject": "Nouvelle demande de devis"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "back": "Retour à l'accueil",
+    "sections": [
+      {
+        "h": "Éditeur du site",
+        "p": "ROI DES ROIS – Décoration événementielle & mariages, Nantes (44). Téléphone : 07 81 10 11 24. Responsable de la publication : [À REMPLIR]. SIRET : [À REMPLIR]."
+      },
+      {
+        "h": "Hébergement",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis – vercel.com."
+      },
+      {
+        "h": "Données personnelles",
+        "p": "Les informations saisies dans le formulaire de devis (nom, téléphone, détails de l'événement) sont transmises par WhatsApp et, le cas échéant, par e-mail, uniquement pour répondre à votre demande. Elles ne sont ni revendues ni utilisées à d'autres fins. Vous pouvez demander leur suppression à tout moment par téléphone ou WhatsApp."
+      },
+      {
+        "h": "Cookies",
+        "p": "Le site ne dépose aucun cookie publicitaire ni de mesure d'audience. Seul votre choix de langue est mémorisé."
+      },
+      {
+        "h": "Photos",
+        "p": "Les photographies présentées sont des réalisations de Roi des Rois. Toute reproduction sans autorisation est interdite."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "Cette page n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  }
+}

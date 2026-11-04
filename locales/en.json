@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "title": "Moroccan Wedding Decoration in Nantes | Roi des Rois Déco",
+    "description": "Moroccan wedding, engagement and henna night decoration in Nantes and Loire-Atlantique: gold-embroidered velvet salons, red-carpet aisles, gold arches and equipment hire. Request a quote on WhatsApp.",
+    "legalTitle": "Legal notice | Roi des Rois Déco",
+    "legalDescription": "Legal notice and data protection for Roi des Rois Déco, event decoration in Nantes."
+  },
+  "nav": {
+    "decoration": "Decoration",
+    "allee": "Aisle & ceremony",
+    "location": "Hire",
+    "realisations": "Our work",
+    "contact": "Contact",
+    "quote": "Request a quote",
+    "quoteShort": "Quote",
+    "instagram": "Roi des Rois on Instagram",
+    "menu": "Menu",
+    "close": "Close menu",
+    "langs": "Site language",
+    "skip": "Skip to content",
+    "home": "Roi des Rois, home"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "brand": {
+    "name": "Roi des Rois",
+    "sub": "Décoration événementielle & mariages",
+    "ar": "تزيين الحفلات والأعراس"
+  },
+  "hero": {
+    "eyebrow": "Moroccan decoration · Weddings · Nantes",
+    "title": "Modern elegance, the soul of tradition",
+    "lead": "Gold-embroidered velvet salons, lanterns, rugs and gold arches for your weddings, engagements and henna nights.",
+    "quote": "Request a quote",
+    "whatsapp": "WhatsApp",
+    "scroll": "Discover",
+    "alts": [
+      "Reception hall in Nantes, the couple's stage and a red carpet",
+      "Burgundy velvet Moroccan salon embroidered in gold beneath a crystal chandelier",
+      "Outdoor ceremony aisle with red carpet, gold arches and lanterns"
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "The house",
+    "title": "A tradition received like a palace",
+    "body": "Roi des Rois dresses your celebrations the way the great Moroccan houses do: deep velvets, gold-thread embroidery, chased brass and the soft glow of lanterns. Every setting is composed for your venue and your colours, from the salon of honour to the last glass on the table, in Nantes and across Loire-Atlantique.",
+    "signature": "Elevate your events: modern elegance meets Maghreb tradition."
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Three ways we can help",
+    "more": "Talk to us",
+    "items": [
+      {
+        "title": "Full decoration",
+        "sub": "Weddings · engagements · henna nights",
+        "body": "We design the whole room: Moroccan salons, dressed tables, floral centrepieces, a henna corner and the couple's stage. We deliver, set up and take down.",
+        "points": [
+          "Venue visit or floor plan",
+          "Colours and theme",
+          "Set-up and take-down"
+        ]
+      },
+      {
+        "title": "Aisle & ceremony",
+        "sub": "Red carpet · gold arches · lanterns",
+        "body": "An entrance people remember: a medallion red carpet, gold arches and columns, flower urns and lanterns on either side, indoors or out.",
+        "points": [
+          "The couple's entrance",
+          "Outdoor ceremonies",
+          "Floral arrangements"
+        ]
+      },
+      {
+        "title": "Equipment hire",
+        "sub": "Decorate it yourself",
+        "body": "Salons, cushions, low tables, henna trays, lanterns, rugs, arches: build your selection from the catalogue and we prepare everything for your date.",
+        "points": [
+          "Online catalogue",
+          "Collection or delivery",
+          "Set-up advice"
+        ]
+      }
+    ]
+  },
+  "details": {
+    "eyebrow": "Craft",
+    "title": "Beauty lies in the details",
+    "body": "A trim pulled taut, embroidery set true, a gold-rimmed glass lined up with its cutlery. Repeated table after table, these small gestures are what make a room feel like a palace.",
+    "alt": "Close-up of a burgundy velvet salon embroidered in gold thread"
+  },
+  "events": {
+    "eyebrow": "Your events",
+    "title": "Every celebration has its setting",
+    "items": [
+      {
+        "id": "mariage",
+        "title": "Wedding",
+        "body": "Stage, aisle, salons and tables: a setting planned from your guests' first step to the last dance.",
+        "alt": "Lit wedding stage with a white sofa and gold lanterns"
+      },
+      {
+        "id": "fiancailles",
+        "title": "Engagement",
+        "body": "An embroidered salon, lanterns and gold trays to welcome both families in style.",
+        "alt": "Teal Moroccan salon and an emerald round table with lanterns"
+      },
+      {
+        "id": "henne",
+        "title": "Henna night",
+        "body": "Vivid colours, ornate hangings, the henna tray and cushion: tradition in all its warmth.",
+        "alt": "Henna night setting with green and red arches and gold trays"
+      },
+      {
+        "id": "reception",
+        "title": "Private reception",
+        "body": "Birthdays, new arrivals, family gatherings: tables dressed with care, scaled to your venue.",
+        "alt": "Round table dressed in pink and white with candles and white flowers"
+      }
+    ]
+  },
+  "rental": {
+    "eyebrow": "Equipment hire",
+    "title": "The catalogue",
+    "intro": "Pick your pieces and add them to your request: we'll confirm availability and price for your date.",
+    "all": "All",
+    "add": "Add to my request",
+    "added": "In my request",
+    "remove": "Remove",
+    "priceOnRequest": "Price on request",
+    "from": "€{price} {unit}",
+    "count": "{n} item(s) in your request",
+    "goToForm": "Complete my request",
+    "note": "Guide prices, excluding delivery and set-up. A deposit is required for hire."
+  },
+  "gallery": {
+    "eyebrow": "Our work",
+    "title": "Our settings, in and around Nantes",
+    "intro": "A few of the rooms we have dressed. Every new project goes up on Instagram.",
+    "follow": "Follow @roidesrois.deco44",
+    "open": "Enlarge photo",
+    "close": "Close",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "alts": {
+      "table-turquoise": "Table dressed in turquoise with gold cutlery and flowers",
+      "table-rose-turquoise": "Round table in pink and turquoise, white bouquet on a gold stand",
+      "table-rose-bougies": "Pink and white table with candles and white roses",
+      "table-blanche": "White table with folded napkins and a white bouquet",
+      "table-roses-rouges": "Reception hall, tables with red roses and fringed lamps",
+      "salle-reception": "Overview of a decorated hall with stage and round tables",
+      "centre-roses-rouges": "Red rose centrepiece on a gold stand with cut glasses",
+      "centre-blanc-bougies": "White bouquet on a gold stand surrounded by candles",
+      "scene-salon-blanc": "The couple's stage, tufted white sofa and lit arches",
+      "bordeaux-banquette": "Burgundy Moroccan salon, hanging and gold-embroidered cushions",
+      "emeraude-table-lanternes": "Emerald low table with gold lanterns",
+      "allee-colonne-doree": "Outdoor aisle with gold column and flower urn",
+      "arche-florale": "Lit gold arch and red rose arrangement",
+      "theiere-doree": "Chased gold teapot on a tray",
+      "henne-salon-couleurs": "Henna salon with red, green and gold hangings",
+      "tapis-rouge-scene": "Red carpet leading to the couple's stage",
+      "velours-canard-brode": "Teal velvet embroidered with cream motifs",
+      "verres-couverts-or": "Cut glass with gold rim, plates and gold cutlery"
+    }
+  },
+  "reviews": {
+    "eyebrow": "They trusted us",
+    "title": "Client reviews",
+    "empty": "Client reviews are coming soon. Meanwhile, our work speaks for itself on Instagram.",
+    "cta": "See Instagram"
+  },
+  "zone": {
+    "eyebrow": "Where we work",
+    "title": "Nantes and the surrounding area",
+    "body": "We work in Nantes and neighbouring towns, and are happy to travel further across Loire-Atlantique on request.",
+    "cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Saint-Sébastien-sur-Loire",
+      "Carquefou",
+      "Vertou",
+      "Saint-Nazaire"
+    ],
+    "note": "Somewhere else? Message us and we'll work it out."
+  },
+  "form": {
+    "eyebrow": "Quote",
+    "title": "Request a quote",
+    "intro": "A few details about your event are enough. Your request goes out on WhatsApp and we'll reply quickly with a proposal.",
+    "eventType": "Type of event",
+    "eventTypes": {
+      "mariage": "Wedding",
+      "fiancailles": "Engagement",
+      "henne": "Henna night",
+      "reception": "Private reception",
+      "autre": "Other"
+    },
+    "date": "Date",
+    "dateTaken": "This date is in high demand: we'll confirm availability as soon as possible.",
+    "venue": "Venue",
+    "venuePh": "Venue name, town",
+    "guests": "Number of guests",
+    "service": "Service",
+    "services": {
+      "complete": "Full decoration",
+      "allee": "Aisle & ceremony",
+      "location": "Hire only"
+    },
+    "items": "Hire items selected",
+    "itemsEmpty": "No items yet.",
+    "itemsBrowse": "Browse the catalogue",
+    "qty": "Quantity",
+    "theme": "Colours or theme",
+    "themePh": "E.g. burgundy and gold, emerald, white and gold...",
+    "budget": "Approximate budget",
+    "optional": "optional",
+    "name": "Full name",
+    "phone": "Phone",
+    "message": "Message",
+    "messagePh": "Your ideas, constraints, an inspiration photo to send us...",
+    "required": "Required field",
+    "submit": "Send my request on WhatsApp",
+    "privacy": "Your details are used only to prepare your quote.",
+    "sent": "Thank you! WhatsApp has opened with your request: just press send. If nothing opened, use this link:",
+    "sentLink": "open WhatsApp",
+    "wa": {
+      "title": "*Quote request – Roi des Rois Déco*",
+      "event": "Event",
+      "date": "Date",
+      "venue": "Venue",
+      "guests": "Guests",
+      "service": "Service",
+      "items": "Hire items",
+      "theme": "Colours / theme",
+      "budget": "Budget",
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "lang": "Language: English"
+    }
+  },
+  "footer": {
+    "tagline": "Moroccan decoration for weddings and events, equipment hire.",
+    "zone": "Nantes · Loire-Atlantique",
+    "legal": "Legal notice",
+    "rights": "All rights reserved.",
+    "contact": "Contact",
+    "follow": "Follow"
+  },
+  "whatsapp": {
+    "float": "Message us on WhatsApp",
+    "hello": "Hello Roi des Rois, I'd like some information about decorating my event."
+  },
+  "email": {
+    "subject": "New quote request"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "back": "Back to home",
+    "sections": [
+      {
+        "h": "Publisher",
+        "p": "ROI DES ROIS – Décoration événementielle & mariages, Nantes (44), France. Phone: +33 7 81 10 11 24. Publication manager: [TO BE COMPLETED]. SIRET: [TO BE COMPLETED]."
+      },
+      {
+        "h": "Hosting",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA – vercel.com."
+      },
+      {
+        "h": "Personal data",
+        "p": "The details entered in the quote form (name, phone, event details) are sent by WhatsApp and, where applicable, by email, solely to answer your request. They are never sold or used for any other purpose. You can ask for them to be deleted at any time by phone or WhatsApp."
+      },
+      {
+        "h": "Cookies",
+        "p": "This site sets no advertising or analytics cookies. Only your language choice is remembered."
+      },
+      {
+        "h": "Photos",
+        "p": "The photographs shown are Roi des Rois projects. Reproduction without permission is prohibited."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page doesn't exist or has moved.",
+    "back": "Back to home"
+  }
+}

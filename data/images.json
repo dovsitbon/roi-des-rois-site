@@ -1,0 +1,110 @@
+{
+ "/media/hero/allee-tapis-rouge.jpg": [
+  720,
+  1280
+ ],
+ "/media/hero/salle-scene-orientale.jpg": [
+  720,
+  1280
+ ],
+ "/media/hero/salon-bordeaux-lustre.jpg": [
+  768,
+  1024
+ ],
+ "/media/salons-marocains/bordeaux-banquette.jpg": [
+  540,
+  615
+ ],
+ "/media/salons-marocains/bordeaux-coussins.jpg": [
+  540,
+  615
+ ],
+ "/media/salons-marocains/bordeaux-table-lanternes.jpg": [
+  540,
+  615
+ ],
+ "/media/salons-marocains/canard-salon.jpg": [
+  480,
+  854
+ ],
+ "/media/salons-marocains/emeraude-table-lanternes.jpg": [
+  480,
+  854
+ ],
+ "/media/henne/henne-arches-vertes.jpg": [
+  720,
+  1280
+ ],
+ "/media/henne/henne-salon-couleurs.jpg": [
+  720,
+  1280
+ ],
+ "/media/allee-ceremonie/allee-arches-lanternes.jpg": [
+  720,
+  1280
+ ],
+ "/media/allee-ceremonie/allee-colonne-doree.jpg": [
+  720,
+  1280
+ ],
+ "/media/allee-ceremonie/arche-florale.jpg": [
+  720,
+  1280
+ ],
+ "/media/allee-ceremonie/tapis-rouge-scene.jpg": [
+  720,
+  1280
+ ],
+ "/media/details/theiere-doree.jpg": [
+  720,
+  1280
+ ],
+ "/media/details/velours-bordeaux-brode.jpg": [
+  540,
+  615
+ ],
+ "/media/details/velours-canard-brode.jpg": [
+  480,
+  854
+ ],
+ "/media/details/verres-couverts-or.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/centre-blanc-bougies.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/centre-roses-rouges.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/salle-reception.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/scene-salon-blanc.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/table-blanche.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/table-rose-bougies.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/table-rose-turquoise.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/table-roses-rouges.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/table-turquoise.jpg": [
+  720,
+  1280
+ ]
+}

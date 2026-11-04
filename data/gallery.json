@@ -1,0 +1,17 @@
+{
+  "_info": "Réalisations affichées dans la galerie, dans l'ordre. « key » renvoie au texte alternatif traduit (locales/*.json → gallery.alts). « span » : format du recadrage.",
+  "items": [
+    { "src": "/media/salons-marocains/bordeaux-banquette.jpg", "key": "bordeaux-banquette", "span": "aspect-[3/4]" },
+    { "src": "/media/galerie/table-turquoise.jpg", "key": "table-turquoise", "span": "aspect-[9/16]" },
+    { "src": "/media/allee-ceremonie/tapis-rouge-scene.jpg", "key": "tapis-rouge-scene", "span": "aspect-[4/5]" },
+    { "src": "/media/galerie/centre-roses-rouges.jpg", "key": "centre-roses-rouges", "span": "aspect-[3/4]" },
+    { "src": "/media/henne/henne-salon-couleurs.jpg", "key": "henne-salon-couleurs", "span": "aspect-[4/5]" },
+    { "src": "/media/galerie/table-rose-turquoise.jpg", "key": "table-rose-turquoise", "span": "aspect-[9/16]" },
+    { "src": "/media/allee-ceremonie/arche-florale.jpg", "key": "arche-florale", "span": "aspect-[3/4]" },
+    { "src": "/media/galerie/salle-reception.jpg", "key": "salle-reception", "span": "aspect-[4/5]" },
+    { "src": "/media/galerie/table-blanche.jpg", "key": "table-blanche", "span": "aspect-[3/4]" },
+    { "src": "/media/galerie/table-roses-rouges.jpg", "key": "table-roses-rouges", "span": "aspect-[9/16]" },
+    { "src": "/media/galerie/centre-blanc-bougies.jpg", "key": "centre-blanc-bougies", "span": "aspect-[4/5]" },
+    { "src": "/media/allee-ceremonie/allee-arches-lanternes.jpg", "key": "allee-colonne-doree", "span": "aspect-[3/4]" }
+  ]
+}

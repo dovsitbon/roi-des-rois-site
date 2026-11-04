@@ -1,0 +1,172 @@
+{
+  "_info": "Catalogue de location. « price » : prix en euros (nombre) ou null tant qu'il n'est pas fixé (le site affiche alors « Prix sur demande »). « unit » : par pièce, par ensemble, par mètre... À REMPLIR avec la liste exacte du matériel et les tarifs.",
+  "categories": [
+    { "id": "salons", "name": { "fr": "Salons marocains", "ar": "الصالونات المغربية", "en": "Moroccan salons" } },
+    { "id": "tables", "name": { "fr": "Tables & plateaux", "ar": "الطاولات والصواني", "en": "Tables & trays" } },
+    { "id": "lumiere", "name": { "fr": "Lanternes & lumière", "ar": "الفوانيس والإضاءة", "en": "Lanterns & light" } },
+    { "id": "ceremonie", "name": { "fr": "Allée & cérémonie", "ar": "الممر والحفل", "en": "Aisle & ceremony" } },
+    { "id": "table-art", "name": { "fr": "Arts de la table", "ar": "فن المائدة", "en": "Tableware" } }
+  ],
+  "items": [
+    {
+      "id": "salon-bordeaux",
+      "category": "salons",
+      "image": "/media/salons-marocains/bordeaux-banquette.jpg",
+      "focus": "50% 60%",
+      "name": { "fr": "Salon marocain bordeaux brodé d'or", "ar": "صالون مغربي عنابي مطرز بالذهب", "en": "Burgundy Moroccan salon, gold embroidery" },
+      "desc": { "fr": "Banquettes en velours grenat, tenture murale et coussins brodés au fil doré.", "ar": "أرائك من المخمل العنابي، ستارة حائطية ووسائد مطرزة بخيوط ذهبية.", "en": "Garnet velvet seating, wall hanging and cushions embroidered in gold thread." },
+      "price": null,
+      "unit": { "fr": "l'ensemble", "ar": "للطقم", "en": "per set" }
+    },
+    {
+      "id": "salon-canard",
+      "category": "salons",
+      "image": "/media/salons-marocains/canard-salon.jpg",
+      "focus": "50% 70%",
+      "name": { "fr": "Salon marocain bleu canard", "ar": "صالون مغربي أزرق بترولي", "en": "Teal Moroccan salon" },
+      "desc": { "fr": "Velours bleu canard et broderies crème, tenture assortie.", "ar": "مخمل أزرق بترولي وتطريز كريمي مع ستارة متناسقة.", "en": "Teal velvet with cream embroidery and a matching hanging." },
+      "price": null,
+      "unit": { "fr": "l'ensemble", "ar": "للطقم", "en": "per set" }
+    },
+    {
+      "id": "coussins-brodes",
+      "category": "salons",
+      "image": "/media/salons-marocains/bordeaux-coussins.jpg",
+      "focus": "50% 75%",
+      "name": { "fr": "Coussins et polochons brodés", "ar": "وسائد ومساند مطرزة", "en": "Embroidered cushions & bolsters" },
+      "desc": { "fr": "Pour compléter un salon ou habiller un coin photo.", "ar": "لإكمال الصالون أو تزيين ركن التصوير.", "en": "To complete a salon or dress a photo corner." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "table-velours-ronde",
+      "category": "tables",
+      "image": "/media/salons-marocains/emeraude-table-lanternes.jpg",
+      "focus": "50% 60%",
+      "name": { "fr": "Table basse ronde habillée de velours", "ar": "طاولة مستديرة منخفضة مكسوة بالمخمل", "en": "Round low table in velvet" },
+      "desc": { "fr": "Émeraude, bordeaux ou fuchsia, galons dorés.", "ar": "زمردي أو عنابي أو فوشيا، بشرائط ذهبية.", "en": "Emerald, burgundy or fuchsia, with gold trim." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "plateau-henne",
+      "category": "tables",
+      "image": "/media/salons-marocains/bordeaux-table-lanternes.jpg",
+      "focus": "50% 45%",
+      "name": { "fr": "Plateau et service à henné", "ar": "صينية وطقم الحناء", "en": "Henna tray & set" },
+      "desc": { "fr": "Coupelles, flacons et coussin brodé pour la cérémonie du henné.", "ar": "أوانٍ وقوارير ووسادة مطرزة لحفل الحناء.", "en": "Bowls, flasks and an embroidered cushion for the henna ceremony." },
+      "price": null,
+      "unit": { "fr": "l'ensemble", "ar": "للطقم", "en": "per set" }
+    },
+    {
+      "id": "service-the",
+      "category": "tables",
+      "image": "/media/details/theiere-doree.jpg",
+      "focus": "50% 45%",
+      "name": { "fr": "Théière et service à thé dorés", "ar": "إبريق وطقم شاي ذهبي", "en": "Gold teapot & tea service" },
+      "desc": { "fr": "Théière ciselée, plateau et verres pour le thé à la menthe.", "ar": "إبريق منقوش وصينية وكؤوس لأتاي بالنعناع.", "en": "Chased teapot, tray and glasses for mint tea." },
+      "price": null,
+      "unit": { "fr": "l'ensemble", "ar": "للطقم", "en": "per set" }
+    },
+    {
+      "id": "lanternes-dorees",
+      "category": "lumiere",
+      "image": "/media/allee-ceremonie/allee-arches-lanternes.jpg",
+      "focus": "20% 70%",
+      "name": { "fr": "Lanternes dorées ciselées", "ar": "فوانيس ذهبية منقوشة", "en": "Chased gold lanterns" },
+      "desc": { "fr": "Au sol le long de l'allée ou posées sur les tables.", "ar": "على الأرض على طول الممر أو فوق الطاولات.", "en": "Along the aisle or set on the tables." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "lanternes-table",
+      "category": "lumiere",
+      "image": "/media/salons-marocains/emeraude-table-lanternes.jpg",
+      "focus": "50% 40%",
+      "name": { "fr": "Petites lanternes de table", "ar": "فوانيس صغيرة للطاولة", "en": "Small table lanterns" },
+      "desc": { "fr": "Métal doré ajouré, pour les plateaux et les salons.", "ar": "معدن ذهبي مخرم للصواني والصالونات.", "en": "Pierced gold metal, for trays and salons." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "tapis-rouge",
+      "category": "ceremonie",
+      "image": "/media/hero/allee-tapis-rouge.jpg",
+      "focus": "50% 80%",
+      "name": { "fr": "Tapis rouge d'allée à médaillons", "ar": "سجاد أحمر للممر بزخارف", "en": "Red aisle runner with medallions" },
+      "desc": { "fr": "Pour l'entrée des mariés, en salle ou en extérieur.", "ar": "لدخول العروسين، في القاعة أو في الهواء الطلق.", "en": "For the couple's entrance, indoors or outside." },
+      "price": null,
+      "unit": { "fr": "le mètre", "ar": "للمتر", "en": "per metre" }
+    },
+    {
+      "id": "arches-dorees",
+      "category": "ceremonie",
+      "image": "/media/allee-ceremonie/allee-arches-lanternes.jpg",
+      "focus": "70% 30%",
+      "name": { "fr": "Arches dorées fleuries", "ar": "أقواس ذهبية مزينة بالورود", "en": "Gold arches with flowers" },
+      "desc": { "fr": "Arches en métal doré, compositions de fleurs blanches au sommet.", "ar": "أقواس من المعدن الذهبي تعلوها تنسيقات من الورود البيضاء.", "en": "Gold metal arches topped with white flowers." },
+      "price": null,
+      "unit": { "fr": "la paire", "ar": "للزوج", "en": "per pair" }
+    },
+    {
+      "id": "colonnes-vasques",
+      "category": "ceremonie",
+      "image": "/media/allee-ceremonie/allee-colonne-doree.jpg",
+      "focus": "50% 50%",
+      "name": { "fr": "Colonnes et vasques dorées", "ar": "أعمدة وأحواض ذهبية", "en": "Gold columns & urns" },
+      "desc": { "fr": "Colonnes cannelées et vasques garnies de fleurs.", "ar": "أعمدة مخددة وأحواض مزينة بالورود.", "en": "Fluted columns and urns filled with flowers." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "arche-florale",
+      "category": "ceremonie",
+      "image": "/media/allee-ceremonie/arche-florale.jpg",
+      "focus": "40% 50%",
+      "name": { "fr": "Arche lumineuse et bouquet de roses", "ar": "قوس مضيء وباقة ورد", "en": "Lit arch & rose arrangement" },
+      "desc": { "fr": "Cadre doré éclairé, roses rouges et fleurs blanches.", "ar": "إطار ذهبي مضيء، ورود حمراء وزهور بيضاء.", "en": "Lit gold frame, red roses and white flowers." },
+      "price": null,
+      "unit": { "fr": "la pièce", "ar": "للقطعة", "en": "each" }
+    },
+    {
+      "id": "salon-maries",
+      "category": "ceremonie",
+      "image": "/media/galerie/scene-salon-blanc.jpg",
+      "focus": "50% 45%",
+      "name": { "fr": "Scène et trône des mariés", "ar": "منصة وعرش العروسين", "en": "Couple's stage & throne" },
+      "desc": { "fr": "Canapé capitonné, arcs lumineux et tapis, montés sur place.", "ar": "أريكة مبطنة وأقواس مضيئة وسجاد، تُركّب في المكان.", "en": "Tufted sofa, lit arches and rug, set up on site." },
+      "price": null,
+      "unit": { "fr": "l'ensemble", "ar": "للطقم", "en": "per set" }
+    },
+    {
+      "id": "centre-table",
+      "category": "table-art",
+      "image": "/media/galerie/centre-blanc-bougies.jpg",
+      "focus": "50% 35%",
+      "name": { "fr": "Centre de table fleuri sur pied doré", "ar": "تنسيق زهور للطاولة على حامل ذهبي", "en": "Flower centrepiece on gold stand" },
+      "desc": { "fr": "Roses blanches ou rouges, bougies et plateau miroir.", "ar": "ورود بيضاء أو حمراء، شموع وصينية مرآة.", "en": "White or red roses, candles and a mirror tray." },
+      "price": null,
+      "unit": { "fr": "la table", "ar": "للطاولة", "en": "per table" }
+    },
+    {
+      "id": "nappes-brodees",
+      "category": "table-art",
+      "image": "/media/galerie/table-rose-turquoise.jpg",
+      "focus": "50% 60%",
+      "name": { "fr": "Nappes et surnappes à motifs dorés", "ar": "مفارش طاولات بزخارف ذهبية", "en": "Tablecloths & overlays with gold motifs" },
+      "desc": { "fr": "Rose poudré, turquoise, blanc : à assortir à votre thème.", "ar": "وردي، فيروزي، أبيض: حسب لون حفلكم.", "en": "Blush, turquoise or white, to match your theme." },
+      "price": null,
+      "unit": { "fr": "la table", "ar": "للطاولة", "en": "per table" }
+    },
+    {
+      "id": "verres-couverts",
+      "category": "table-art",
+      "image": "/media/details/verres-couverts-or.jpg",
+      "focus": "50% 50%",
+      "name": { "fr": "Verres ciselés et couverts dorés", "ar": "كؤوس منقوشة وأدوات مائدة ذهبية", "en": "Cut glasses & gold cutlery" },
+      "desc": { "fr": "Assiettes de présentation, verres à liseré doré, couverts or.", "ar": "صحون تقديم، كؤوس بحواف ذهبية، أدوات مائدة ذهبية.", "en": "Charger plates, gold-rimmed glasses, gold cutlery." },
+      "price": null,
+      "unit": { "fr": "le couvert", "ar": "للفرد", "en": "per guest" }
+    }
+  ]
+}
